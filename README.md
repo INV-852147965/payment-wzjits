@@ -1,8 +1,10 @@
 09.15.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: ssvhhi@aol.com, icyrasbearc1958@aol.com
-At: 2026-09-15 22:48:31
-Id: HRUG3eN9
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: lan2125_kawaii@yahoo.com, cariemassey@yahoo.com
+At: 2026-09-15 22:49:10
+Id: wmcUwd5q
